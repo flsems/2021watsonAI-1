@@ -1,0 +1,13 @@
+{
+  "apikey": "3vvZkhAGmVrZ9kvoGOuyMH46vrkoeNqXM1RdAmvfwh8u",
+  "cos_hmac_keys": {
+    "access_key_id": "efcf241d0ef64b0ca6fa5cea6e7b13a5",
+    "secret_access_key": "8728065b100e838e74b90c8faa19259fb67daabf41f57ef7"
+  },
+  "endpoints": "https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints",
+  "iam_apikey_description": "Auto-generated for key efcf241d-0ef6-4b0c-a6fa-5cea6e7b13a5",
+  "iam_apikey_name": "P1-3 실습",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/85ae528fc36a44519482c1dcffa4c1e3::serviceid:ServiceId-f09bb017-92ff-478c-af48-cd32d771a344",
+  "resource_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/85ae528fc36a44519482c1dcffa4c1e3:77853caf-e8ec-477e-b9d0-636a17abaac8::"
+}
